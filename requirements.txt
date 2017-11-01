@@ -1,0 +1,11 @@
+Flask
+six
+pymongo[tls]
+flask-mongoengine
+eve
+py-bcrypt
+flask_security
+pyjwt
+flask_mail
+requests
+flask-cors
